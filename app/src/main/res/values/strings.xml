@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DrawerLayout</string>
+    <string-array name="menuItems">
+        <item>Coffee</item>
+        <item>Long Island</item>
+        <item>Seven Deadly Sins</item>
+        <item>Latte</item>
+        <item>Cappucino</item>
+    </string-array>
+</resources>
